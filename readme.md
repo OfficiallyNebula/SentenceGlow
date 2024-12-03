@@ -56,4 +56,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 officiallynebula
 
-Project Link: [https://github.com/officiallynebula/sentence-highlighter](https://github.com/officiallynebula/sentence-highlighter)
+Project Link: [https://github.com/officiallynebula/SentenceGlow](https://github.com/officiallynebula/SentenceGlow)
